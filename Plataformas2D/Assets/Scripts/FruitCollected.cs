@@ -11,6 +11,7 @@ public class FruitCollected : MonoBehaviour
         {
             GetComponent<SpriteRenderer>().enabled = false; //desactiva renderización de la fruta
             gameObject.transform.GetChild(0).gameObject.SetActive(true); //activa el hijo del gameobject fruit que es la animacion collected
+            FindObjectOfType<FruitManager>().AllFruitsCollected(); //llama al metodo que verifica si despues de eliminar esta fruta no quedarán más
             Destroy(gameObject, 0.5f);  //destruye la fruta y todo lo que tiene
         }
     }
