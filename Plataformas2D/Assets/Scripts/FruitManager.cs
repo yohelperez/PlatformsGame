@@ -8,9 +8,22 @@ public class FruitManager : MonoBehaviour
 {
     public Text levelCleared; //texto de All fruits collected
 
+    //para el conteo de frutas
+    public Text totalFruits;
+    public Text collectedFruits;
+    private int totalFruitsInLevel;
+
+
+    private void Start()
+    {
+        totalFruitsInLevel = transform.childCount; 
+    }
+
     private void Update()
     {
         AllFruitsCollected(); //llama la funcion para verificar en cada frame cuantas frutas quedan
+        totalFruits.text = totalFruitsInLevel.ToString(); //muestra el numero total de frutas en el nivel
+        collectedFruits.text = (totalFruitsInLevel - transform.childCount).ToString(); //muestra el numero de frutas cogidas
     }
 
     //cuenta el numero de frutas que hay y comprueba que solo quede una
