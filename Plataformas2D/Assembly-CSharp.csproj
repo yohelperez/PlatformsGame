@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CheckGround.cs" />
     <Compile Include="Assets\Scripts\DamageObject.cs" />
+    <Compile Include="Assets\Scripts\EnemySaw.cs" />
     <Compile Include="Assets\Scripts\EnemySpike.cs" />
     <Compile Include="Assets\Scripts\FruitCollected.cs" />
     <Compile Include="Assets\Scripts\FruitManager.cs" />
