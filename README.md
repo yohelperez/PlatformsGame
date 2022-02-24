@@ -1,4 +1,4 @@
 # PlatformsGame
 
-Platforms game called Saltare.
+Platforms game called Saltare:
 https://i.simmer.io/@YohelPerez/saltare
