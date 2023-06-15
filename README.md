@@ -22,7 +22,8 @@ Reach the end of the level to unlock the next exciting challenge.
 
 ### Installation and Deployment:
 The game is deployed on the web and can be played directly through the Simmer.io platform.
-Simply visit Simmer.io/Saltare to access and enjoy the game.
+Simply visit [Simmer.io/Saltare](https://simmer.io/@YohelPerez/saltare) to access and enjoy the game.
+
 
 ### Preview:
 
