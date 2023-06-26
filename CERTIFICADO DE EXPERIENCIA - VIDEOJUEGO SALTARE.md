@@ -9,7 +9,7 @@ Este certificado reconoce la experiencia adquirida durante la participación de 
 ## Información del Proyecto
 
 - **Nombre del Proyecto:** Saltare
-- **Duración del Proyecto:** Agosto 2022 - Diciembre 2022
+- **Duración del Proyecto:** Julio 2020
 - **Horas dedicadas:** 32 horas
 - **Enlace del proyecto:** [https://github.com/yohelperez/PlatformsGame](https://github.com/yohelperez/PlatformsGame)
 - **Sitio web:** [Simmer.io/Saltare](https://simmer.io/@YohelPerez/saltare)
