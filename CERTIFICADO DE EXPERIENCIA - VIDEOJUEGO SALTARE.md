@@ -41,11 +41,9 @@ Durante el desarrollo del proyecto, se lograron los siguientes resultados signif
 
 <br>
 <br>
-<br>
 
 Este certificado se expide en Medellín a los 26 días del mes de Junio.
 
-<br>
 <br>
 
 ![image](https://github.com/yohelperez/barber-appointment-manager-app/assets/55060788/759ace9f-311a-481b-aaa1-18b83e7a82c0)
